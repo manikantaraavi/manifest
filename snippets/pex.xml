@@ -17,5 +17,5 @@
 
   <!--System repos -->
   <project path="system/libhwbinder" name="system_libhwbinder" remote="pex" />
-
+  <project path="system/core" name="system_core" remote="pex" />
 </manifest>
